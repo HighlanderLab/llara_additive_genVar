@@ -1,12 +1,15 @@
-# Please cite: Lara et al. (2020) DOI: https://doi.org/10.1101/2020.08.29.273250
+# Please cite: Lara et al. (2020) 
+
+DOI: https://doi.org/10.1101/2020.08.29.273250
 
 Pre-print
-@article{de2020temporal,
-  title={Temporal and genomic analysis of additive genetic variance in breeding programmes},
-  author={de Castro Lara, Leticia Aparecida and Pocrnic, Ivan and Gaynor, Robert Chris and Gorjanc, Gregor},
-  journal={bioRxiv},
-  year={2020},
-  publisher={Cold Spring Harbor Laboratory}
+
+@article{de2020temporal, \\
+  title={Temporal and genomic analysis of additive genetic variance in breeding programmes}, \\
+  author={de Castro Lara, Leticia Aparecida and Pocrnic, Ivan and Gaynor, Robert Chris and Gorjanc, Gregor}, \\
+  journal={bioRxiv}, \\
+  year={2020}, \\
+  publisher={Cold Spring Harbor Laboratory} \\
 }
 
 This git repository contains scripts used to perform temporal and genomic analysis of additive genetic variance in different stages of a simulated wheat breeding program. Furthermore, we fitted both full Bayesian and empirical Bayesian to account for uncertainty. The manuscript is submitted to Heredity and the citation will be updated.
