@@ -1,0 +1,15 @@
+PhenotypeTrainFile         , PhenotypeTrain.txt
+FixedEffectTrainFile       , HarvestTrain.txt
+NumberOfFixedEffectLevels  , 5
+GenotypeTrainFile          , GenotypeTrain.txt
+NumberOfMarkers            , 10500
+GenotypeScalingMethod      , 1
+EstimateVariances          , No
+EstimationMethod           , RidgeSample
+GeneticVariance            , 0.1401053
+ResidualVariance           , 0.3629108
+NumberOfIterations         , 100000
+NumberOfBurnInIterations   , 10000
+Stop
+
+
