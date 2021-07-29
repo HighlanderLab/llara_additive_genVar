@@ -5,7 +5,7 @@
 #                  Leticia Lara - February, 2020                      #
 #######################################################################
 
-library(AlphaSimR)
+library(AlphaSimR)           # Version 0.11.0
 library(tidyverse)
 library(dplyr)
 INLA:::inla.dynload.workaround()

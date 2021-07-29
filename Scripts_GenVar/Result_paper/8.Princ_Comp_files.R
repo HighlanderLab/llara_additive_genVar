@@ -5,7 +5,7 @@
 #                     March, 2020                      #
 ########################################################
 
-library(AlphaSimR)
+library(AlphaSimR)           # Version 0.11.0
 library(irlba)
 
 

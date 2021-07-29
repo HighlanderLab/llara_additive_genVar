@@ -12,6 +12,7 @@ library(tidyr)
 library(ggridges)
 library(GGally)
 library(ggpubr)
+library(AlphaSimR)           # Version 0.11.0
 
 
 rm(list=ls())

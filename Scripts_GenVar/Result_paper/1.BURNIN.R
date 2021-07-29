@@ -1,6 +1,5 @@
 
-library(AlphaSimR)
-
+library(AlphaSimR)           # Version 0.11.0
 
 source("./input_sim/GlobalParameters.R")
 source("./input_sim/CreateParents.R")

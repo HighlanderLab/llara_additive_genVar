@@ -11,6 +11,7 @@ library(openxlsx)
 library(tidyr)
 library(ggridges)
 library(ggpubr)
+library(AlphaSimR)           # Version 0.11.0
 
 rm(list=ls())
 

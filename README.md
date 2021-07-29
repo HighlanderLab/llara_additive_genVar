@@ -6,7 +6,7 @@ Pre-print
 
     @article{de2020temporal,
       title={Temporal and genomic analysis of additive genetic variance in breeding programmes},
-      author={de Castro Lara, Leticia Aparecida and Pocrnic, Ivan and Gaynor, Robert Chris and Gorjanc, Gregor},
+      author={Lara, Leticia Aparecida de Castro and Pocrnic, Ivan and Gaynor, Robert Chris and Gorjanc, Gregor},
       journal={bioRxiv},
       year={2020},
       publisher={Cold Spring Harbor Laboratory}

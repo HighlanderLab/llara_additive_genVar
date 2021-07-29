@@ -1,5 +1,5 @@
 
-library(AlphaSimR)
+library(AlphaSimR)           # Version 0.11.0
 load("Burnin.RData")
 
 stage.year <- list(parents = list(), F1 = list(), HDRW = list(),

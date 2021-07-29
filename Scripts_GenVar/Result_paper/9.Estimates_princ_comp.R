@@ -6,10 +6,8 @@
 #                             March, 2019                             #
 #######################################################################
 
-#options(repos = c(getOption("repos"), INLA="https://inla.r-inla-download.org/R/stable"))
-#install.packages("INLA", dep = TRUE)
 
-library(AlphaSimR)
+library(AlphaSimR)           # Version 0.11.0
 library(tidyverse)
 library(irlba)
 library(dplyr)
