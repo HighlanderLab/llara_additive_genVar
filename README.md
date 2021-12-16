@@ -1,5 +1,7 @@
 # Temporal and genomic analysis of additive genetic variance in breeding programmes
 
+Lara et al. (2021) Heredity, https://doi.org/10.1038/s41437-021-00485-y
+
     @article{LaraEtAl2021,
       title = {Temporal and genomic analysis of additive genetic variance in breeding programmes},
       author = {Lara, Leticia Aparecida de Castro and Pocrnic, Ivan and Oliveira, Thiago de Paula and Gaynor, Robert Chris and Gorjanc, Gregor},
